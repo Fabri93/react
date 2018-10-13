@@ -8,9 +8,6 @@ class Menu extends Component {
     
     }
 
-    onDishSelect(dish) {
-        this.setState({ selectedDish: dish});
-    }
 
 
     renderMenu(){
